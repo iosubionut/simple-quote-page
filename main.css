@@ -1,0 +1,36 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  line-height: 1.5;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background: url('assets/familia.jpg') no-repeat center;
+  background-size: cover;
+  color: #555;
+}
+
+.wrapper {
+  padding-top: 32rem;
+  width: 95%;
+  margin: 0 auto;
+  text-align: right;
+}
+
+.quote {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 2.5rem;
+  
+}
+p {
+  text-shadow: 2px 2px 2px white;
+}
+.author {
+  font-family: 'Crimson Text', serif;
+  font-size: 1.5rem;
+  font-style: italic;
+}
